@@ -1,3 +1,3 @@
 # first Git file
 
-Sai Swathi
+Sai Swathi Prabhakar
